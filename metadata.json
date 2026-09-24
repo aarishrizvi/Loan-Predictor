@@ -1,0 +1,6 @@
+{
+  "name": "Loan Approval Prediction System",
+  "description": "BCA Minor Project - An academic, deterministic loan approval prediction and eligibility scoring system based on demographic and financial indicators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
